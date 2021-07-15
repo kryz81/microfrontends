@@ -19,7 +19,6 @@ function Copyright() {
         Your Website
       </MaterialLink>{" "}
       {new Date().getFullYear()}
-      {"."}
     </Typography>
   );
 }
